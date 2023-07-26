@@ -1,2 +1,2 @@
 # firmasEspe
-Repositorio de prueba
+Repositorio del app móvil ESPEBoard
